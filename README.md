@@ -7,7 +7,7 @@
 
  ### **Sources**
  The master branch is composed by:
-* Data : CVS files contain the Eötvös and Galilei numbers for differentsimulations of rising bubbles.
+* Data : CVS files contain the Eötvös and Galilei numbers for different simulations of rising bubbles.
 * Main : To run the project and obtain the prediction, the classifier evaluation and the Plot of decision Boundaries
 * Functions : Functions for Data Preprocessing, Model Prediction and Data Visualization
 * Packages : Libraries and Modules import
@@ -31,10 +31,9 @@ Precision | Recall |  F1-Score| Accuracy
  
 - [x] Data Visualization ( Decision Boundaries Plot)
 
-![](https://github.com/Margo3s/Question18/blob/main/Plot.PNG)
+<img src ="https://github.com/Margo3s/Question18/Plot.png">
 
-
-### **Pending Tasks**
+## **Pending Tasks**
 
 - [ ] Mlflow implementation
 - [ ] Model Prediction Neuronal Network
