@@ -31,7 +31,7 @@ Precision | Recall |  F1-Score| Accuracy
  
 - [x] Data Visualization ( Decision Boundaries Plot)
 
-<img src ="https://github.com/Margo3s/Question18/Plot.png">
+<img src ="https://github.com/Margo3s/Question18/tree/main/Plot.png">
 
 ## **Pending Tasks**
 
