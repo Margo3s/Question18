@@ -36,4 +36,4 @@ Precision | Recall |  F1-Score| Accuracy
 ## **Pending Tasks**
 
 - [ ] Mlflow implementation
-- [ ] Model Prediction Neuronal Network
+- [ ] Model with Neuronal Network
