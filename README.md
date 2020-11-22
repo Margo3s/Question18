@@ -31,9 +31,10 @@ Precision | Recall |  F1-Score| Accuracy
  
 - [x] Data Visualization ( Decision Boundaries Plot)
 
-<img src ="https://github.com/Margo3s/Question18/tree/main/Plot.png">
+![](https://github.com/Margo3s/Question18/blob/main/Plot.PNG)
 
-## **Pending Tasks**
+
+### **Pending Tasks**
 
 - [ ] Mlflow implementation
 - [ ] Model Prediction Neuronal Network
