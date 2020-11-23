@@ -6,7 +6,7 @@
 - [x] Plot the decision boundaries of the classifier.
 
  ### **Sources**
- The master branch is composed by:
+ The **master branch** is composed by:
 * Data : CVS files contain the Eötvös and Galilei numbers for different simulations of rising bubbles.
 * Main : To run the project and obtain the prediction, the classifier evaluation and the Plot of decision Boundaries
 * Functions : Functions for Data Preprocessing, Model Prediction and Data Visualization
